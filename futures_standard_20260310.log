@@ -1,0 +1,33 @@
+
+================ STANDARD TASK: single-file ingestion ================
+Total valid messages processed: 1328747
+Invalid/skipped lines: 0
+First timestamp: 2026-03-10T00:03:00.166748445Z
+Last timestamp:  2026-03-10T21:00:00.339651393Z
+Wall-clock time, seconds: 8.300
+Throughput, msg/sec: 160081.749
+
+First 10 MarketDataEvent objects:
+ts=2026-03-10T00:03:00.166748445Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=0 side=N price= size=0 action=R seq=0 file=xeur-eobi-20260310.mbo.json:1
+ts=2026-03-10T00:03:00.166748445Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=10996472836897837169 side=B price=-0.005250000 size=10 action=A seq=29622 file=xeur-eobi-20260310.mbo.json:2
+ts=2026-03-10T00:03:00.166748445Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773100800043070774 side=A price=-0.004860000 size=10 action=A seq=29622 file=xeur-eobi-20260310.mbo.json:3
+ts=2026-03-10T00:36:29.517114821Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773100800043070774 side=A price=-0.004860000 size=10 action=C seq=37598 file=xeur-eobi-20260310.mbo.json:4
+ts=2026-03-10T00:36:29.559291401Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773102989559258459 side=A price=-0.004870000 size=10 action=A seq=37599 file=xeur-eobi-20260310.mbo.json:5
+ts=2026-03-10T00:51:00.492153740Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773102989559258459 side=A price=-0.004870000 size=10 action=C seq=41141 file=xeur-eobi-20260310.mbo.json:6
+ts=2026-03-10T00:51:00.534465080Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773103860534436831 side=A price=-0.004860000 size=10 action=A seq=41142 file=xeur-eobi-20260310.mbo.json:7
+ts=2026-03-10T00:53:01.969645141Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773103860534436831 side=A price=-0.004860000 size=10 action=C seq=41614 file=xeur-eobi-20260310.mbo.json:8
+ts=2026-03-10T00:53:02.012366575Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773103982012326561 side=A price=-0.004850000 size=10 action=A seq=41615 file=xeur-eobi-20260310.mbo.json:9
+ts=2026-03-10T01:00:59.167038263Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773103982012326561 side=A price=-0.004850000 size=10 action=C seq=43524 file=xeur-eobi-20260310.mbo.json:10
+
+Last 10 MarketDataEvent objects:
+ts=2026-03-10T20:59:33.713576844Z instrument_id=445 symbol=FCEU SI 20260615 PS order_id=1773176373713566069 side=A price=1.166700000 size=20 action=A seq=4069728 file=xeur-eobi-20260310.mbo.json:1328738
+ts=2026-03-10T20:59:33.730862459Z instrument_id=442 symbol=FCEU SI 20260316 PS order_id=1773176373730851729 side=A price=1.161600000 size=20 action=A seq=4069729 file=xeur-eobi-20260310.mbo.json:1328739
+ts=2026-03-10T20:59:43.800307493Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773176355094232568 side=A price=-0.004910000 size=10 action=C seq=4069839 file=xeur-eobi-20260310.mbo.json:1328740
+ts=2026-03-10T20:59:43.843547393Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773176383843533218 side=A price=-0.004850000 size=10 action=A seq=4069845 file=xeur-eobi-20260310.mbo.json:1328741
+ts=2026-03-10T20:59:56.068757403Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=1773176383843533218 side=A price=-0.004850000 size=10 action=C seq=4069983 file=xeur-eobi-20260310.mbo.json:1328742
+ts=2026-03-10T20:59:56.074358446Z instrument_id=445 symbol=FCEU SI 20260615 PS order_id=10996548406978292926 side=B price=1.166100000 size=20 action=C seq=4069988 file=xeur-eobi-20260310.mbo.json:1328743
+ts=2026-03-10T20:59:56.074363760Z instrument_id=445 symbol=FCEU SI 20260615 PS order_id=1773176373713566069 side=A price=1.166700000 size=20 action=C seq=4069989 file=xeur-eobi-20260310.mbo.json:1328744
+ts=2026-03-10T20:59:56.096360919Z instrument_id=442 symbol=FCEU SI 20260316 PS order_id=10996548405662329449 side=B price=1.161100000 size=20 action=C seq=4070012 file=xeur-eobi-20260310.mbo.json:1328745
+ts=2026-03-10T20:59:56.096366771Z instrument_id=442 symbol=FCEU SI 20260316 PS order_id=1773176373730851729 side=A price=1.161600000 size=20 action=C seq=4070013 file=xeur-eobi-20260310.mbo.json:1328746
+ts=2026-03-10T21:00:00.339651393Z instrument_id=642004 symbol=FCEU.S.MAR26.JUN26.SPD order_id=0 side=N price= size=4294967295 action=R seq=4070127 file=xeur-eobi-20260310.mbo.json:1328747
+================================================
