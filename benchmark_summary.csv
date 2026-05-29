@@ -1,7 +1,0 @@
-log_file,dataset,mode,total_messages,invalid_lines,first_timestamp,last_timestamp,wall_clock_seconds,throughput_msg_per_sec
-futures_flat.log,futures_FCEU_FUT,flat,,,,,,
-futures_hierarchy.log,futures_FCEU_FUT,hierarchy,,,,,,
-futures_standard_20260310.log,futures_FCEU_FUT,standard,,,,,,
-options_flat.log,options_EUCO_OPT,flat,,,,,,
-options_hierarchy.log,options_EUCO_OPT,hierarchy,,,,,,
-options_standard_20260310.log,options_EUCO_OPT,standard,,,,,,
